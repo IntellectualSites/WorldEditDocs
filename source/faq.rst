@@ -12,13 +12,13 @@ General
 Why don't any commands work?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If no commands work, it may because WorldEdit failed to start:
+If no commands work, it may because FastAsyncWorldEdit failed to start:
 
-* Make sure that you are running Bukkit/Forge/Sponge/etc. A vanilla minecraft server will not load plugins/mods!
+* Make sure that you are running Spigot or Paper
 
-  * You can run a command such as ``version`` (Bukkit), ``sponge version`` (Sponge) or ``forge help`` (Forge) to ensure your server is running proper software. In single-player, the Main Menu should have a "Mods" button (and WorldEdit should be in the list!).
+  * You can run a command such as ``version`` (Bukkit) to ensure your server is running proper software.
 
-* Make sure that you have the proper version of WorldEdit for your version of Minecraft.
+* Make sure that you have the proper version of FastAsyncWorldEdit for your version of Minecraft.
 
 If those solutions do not help you, you will need to look through your startup log:
 

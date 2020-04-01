@@ -1,10 +1,16 @@
-# WorldEdit Documentation
+# FastWorldEdit Documentation
 
-These are the files for WorldEdit's documentation.
+These are the files for FastWorldEdit's documentation.
 
 Contributions are welcome. Please read the licensing information below.
 
 ## License
+
+This repository is a fork of the "WorldEditDocs" repository by the members of EngineHub, used under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). FastAsyncWorldEdit Documentation is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
+
+Any changes made to the documentation including additions, removals, or modifcations to the original work can be tracked in the commit history for this project.
+
+Original license notice from "WorldEditDocs":
 
 The documentation located under the "source" directory is licensed with the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Graphic assets and other materials, especially in regards to logos and other trademarks, are the property of their respective copyright owners and distribution may be restricted.
 
